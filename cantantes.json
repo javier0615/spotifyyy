@@ -1,0 +1,125 @@
+[
+    {
+        "nombre": "Dua Lipa",
+        "oyentes": 67221199,
+        "populares": [
+            "Levitating",
+            "Don't Start Now",
+            "Physical",
+            "vida"
+        ],
+        "álbumes": [
+            "Future Nostalgia",
+            "Dua Lipa (Complete Edition)"
+        ],
+        "discografica": "Warner - Vertigo",
+        "web": "www.dualipa.com",
+        "nacionalidad": "Británica",
+        "wiki": "https://es.wikipedia.org/wiki/Dua_Lipa",
+        "seguidores": [
+            {
+                "nombre": "javier cepeda",
+                "ubicacion": "barranquilla"
+            },
+            {
+                "nombre": "javier cepeda",
+                "ubicacion": "barranquilla"
+            },
+            {
+                "nombre": "javier cepeda",
+                "ubicacion": "barranquilla"
+            },
+            {
+                "nombre": "javier cepeda",
+                "ubicacion": "barranquilla"
+            },
+            {
+                "nombre": "javier cepeda",
+                "ubicacion": "barranquilla"
+            }
+        ],
+        "comentarios": [
+            {
+                "usuario": "javier cepeda",
+                "contenido": "lindas canciones"
+            },
+            {
+                "usuario": "me gustan sus canciones",
+                "contenido": "super"
+            },
+            {
+                "usuario": "javier cepeda",
+                "contenido": "excelenete"
+            }
+        ]
+    },
+    {
+        "nombre": "Nicky Minaj",
+        "oyentes": 40033700,
+        "populares": [
+            "Tusa",
+            "Super Bass",
+            "Anaconda",
+            "Bang Bang",
+            "Starships"
+        ],
+        "álbumes": [
+            "Pink Friday",
+            "The Pinkprint",
+            "Queen",
+            "Beam Me Up Scotty"
+        ],
+        "discografica": "Universal Motown - Young Money - Cash Money - Republic Records",
+        "web": "www.nickiminajofficial.com",
+        "nacionalidad": "Trinitense",
+        "wiki": "https://es.wikipedia.org/wiki/Nicki_Minaj"
+    },
+    {
+        "nombre": "Justin Bieber",
+        "oyentes": 71938798,
+        "populares": [
+            "Peaches",
+            "Stay",
+            "Hold On",
+            "As Long As You Love Me",
+            "Baby"
+        ],
+        "álbumes": [
+            "Justice",
+            "Changes",
+            "Purpose",
+            "Believe"
+        ],
+        "discografica": "Island Records",
+        "web": "www.justinbiebermusic.com",
+        "nacionalidad": "Canadiense",
+        "wiki": "https://es.wikipedia.org/wiki/Justin_Bieber"
+    },
+    {
+        "nombre": "diomedez diaz",
+        "oyentes": 2345,
+        "populares": [
+            "gfds",
+            "injusticia"
+        ],
+        "álbumes": [
+            "rtyu"
+        ],
+        "discografica": "rtyu",
+        "web": "rtyu",
+        "nacionalidad": "rtyu",
+        "wiki": "ertyu",
+        "comentarios": [
+            {
+                "usuario": "javier cepeda",
+                "contenido": "bonitas canciones"
+            }
+        ],
+        "seguidores": [
+            {
+                "nombre": "javir cepeda",
+                "ubicacion": "barranquilla"
+            }
+        ]
+    }
+]
