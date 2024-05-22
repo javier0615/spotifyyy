@@ -1,0 +1,27 @@
+[
+    {
+        "nombre": "vallenato",
+        "canciones": [
+            "la reina"
+        ]
+    },
+    {
+        "nombre": "salsa",
+        "canciones": [
+            "mi libertad",
+            "mi jaragual"
+        ]
+    },
+    {
+        "nombre": "merengue",
+        "canciones": [
+            "pegame tu vicio"
+        ]
+    },
+    {
+        "nombre": "salsa brava",
+        "canciones": [
+            "un verano en nueva york"
+        ]
+    }
+]
